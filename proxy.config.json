@@ -1,0 +1,6 @@
+{
+    "/api":{
+        "target":"https://www.boredapi.com/api/activity",
+        "secure":false
+    }
+}
